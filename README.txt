@@ -1,3 +1,7 @@
+This is a solution built in response to a take-home assessment for a job opportunity with Designer Brands.
+Designer Brands hosts their take-home assessment on a public GitHub, so I feel comfortable posting my answer publicly.
+The prompt for their take-home assessment can be found at: https://github.com/designer-brands/digital-work-sample
+
 The primary question I had to address when desigining my implementation of this problem was how to structure
 the data I received on input.
 
